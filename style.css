@@ -682,6 +682,7 @@ h4 {
     height: 100vh;
     display: flex;
     align-items: center;
+    padding: 10px;
     font-size: 2rem;
     text-align: center;
   }
